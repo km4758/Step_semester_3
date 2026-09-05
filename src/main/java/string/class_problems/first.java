@@ -1,5 +1,4 @@
-package string.class_problems;
-
+package main.java.string;
 import java.util.Arrays;
 
 public class first {
